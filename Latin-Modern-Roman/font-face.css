@@ -1,0 +1,85 @@
+@font-face {
+    font-family: 'LatinModern';
+    src: url('lmroman10-regular.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'LatinModern';
+    src: url('lmroman10-bold.otf') format('opentype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'LatinModern';
+    src: url('lmroman10-bolditalic.otf') format('opentype');
+    font-weight: bold;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'LatinModern';
+    src: url('lmroman10-italic.otf') format('opentype');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'LatinModernCaps';
+    src: url('lmromancaps10-regular.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+    font-variant: small-caps;
+}
+
+@font-face {
+    font-family: 'LatinModernCaps';
+    src: url('lmromancaps10-oblique.otf') format('opentype');
+    font-weight: normal;
+    font-style: oblique;
+    font-variant: small-caps;
+}
+
+@font-face {
+    font-family: 'LatinModernDemi';
+    src: url('lmromandemi10-regular.otf') format('opentype');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'LatinModernDemi';
+    src: url('lmromandemi10-oblique.otf') format('opentype');
+    font-weight: 500;
+    font-style: oblique;
+}
+
+@font-face {
+    font-family: 'LatinModernDunh';
+    src: url('lmromandunh10-regular.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'LatinModernDunh';
+    src: url('lmromandunh10-oblique.otf') format('opentype');
+    font-weight: normal;
+    font-style: oblique;
+}
+
+@font-face {
+    font-family: 'LatinModernSlant';
+    src: url('lmromanslant10-regular.otf') format('opentype');
+    font-weight: normal;
+    font-style: oblique;
+}
+
+@font-face {
+    font-family: 'LatinModernSlant';
+    src: url('lmromanslant10-bold.otf') format('opentype');
+    font-weight: bold;
+    font-style: oblique;
+}
